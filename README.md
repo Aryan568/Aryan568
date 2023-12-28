@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Library Management application**
+- 🔭 I’m currently working on **Netflix_Clone**
 
-- 🌱 I’m currently learning **Kotlin & Firebase**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-aryanpatidar2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryanpatidar2001@gmail.com)](mailto:aryanpatidar2001@gmail.com)
 
