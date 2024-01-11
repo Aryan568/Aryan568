@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Netflix_Clone**
+- 🔭 I’m currently working on **Ecommerce website**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **ReactJS & NodeJS**
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-aryanpatidar2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryanpatidar2001@gmail.com)](mailto:aryanpatidar2001@gmail.com)
 
